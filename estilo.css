@@ -2,18 +2,6 @@
     margin: 0;
     padding: 0;
 }
-.azul {
-    border: 3px solid #1d36a3;
-}
-
-#vermelha {
-    border: 3px solid red
-}
-
-table {
-    margin: 5px;
-}
-
 
 /* Cabeçalho */
 header {
@@ -35,4 +23,5 @@ main {
     margin-top: 100px;
     padding: 100px 20px 20px;
     color: black;
+
 }
