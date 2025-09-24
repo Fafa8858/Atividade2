@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.azul {
+    border: 3px solid #1d36a3;
+}
+
+#vermelha {
+    border: 3px solid red
+}
+
+table {
+    margin: 5px;
+}
+
+
+/* Cabeçalho */
+header {
+    width: 100%;
+    background-color: #23153b;
+    color: white;
+    padding: 15px 30px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+nav a {
+    text-decoration: none;
+    color: rgb(248, 248, 248);
+    font-weight: 500;
+    transition: 0.3s;
+}
+main {
+    margin-top: 100px;
+    padding: 100px 20px 20px;
+    color: black;
+}
